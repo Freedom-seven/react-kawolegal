@@ -62,7 +62,7 @@ const Home = () => {
             <span> solvers and support for Startups</span>.
           </p>
           <Link to="/register">
-            <button type="submit" className="btn btn-default register">
+            <button type="submit" className="btn btn-default register-btn">
               Register Now!
             </button>
           </Link>
